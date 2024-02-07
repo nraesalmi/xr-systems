@@ -1,6 +1,6 @@
 # introduction to XR systems -course
 <details>
-  <summary>Homework 1</summary>
+  <summary>Homework 1 Requirements</summary>
 
 ## The Room (5pts)
 - Complete and enclosed room
@@ -53,7 +53,8 @@
 ## Total Points
 - 110
 
-Extra features added:
+
+# Extra features added:
 
 ## Turning:
 
@@ -72,4 +73,4 @@ Tutorial link: https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5
 </details>
 
 ## Homework 1 preview
-![Homework 1 Preview](./Project_preview.mp4)
+![Homework 1 Preview](./project preview.mp4)
