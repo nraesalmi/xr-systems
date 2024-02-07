@@ -73,4 +73,4 @@ Tutorial link: https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5
 </details>
 
 ## Homework 1 preview
-![Homework 1 Preview](./project preview.mp4)
+![Homework 1 Preview](./project_preview.mp4)
